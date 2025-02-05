@@ -2,7 +2,7 @@
 
 ## Overview 💑
 
-This project focuses on predicting loan defaulters using machine learning techniques. This model uses historical loan data to predict the likelihood of default for new loan applications. It incorporates various borrower characteristics and loan attributes to generate risk scores and support credit underwriting decisions. The model leverages **TensorFlow** and **Scikit-Learn** for training, along with data preprocessing and visualization libraries such as **Pandas, Seaborn, and Matplotlib**.
+The project focuses on predicting loan defaulters using machine learning techniques. This model uses historical loan data to predict the likelihood of default for new loan applications. It incorporates various borrower characteristics and loan attributes to generate risk scores and support credit underwriting decisions. The model leverages **TensorFlow** and **Scikit-Learn** for training, along with data preprocessing and visualization libraries such as **Pandas, Seaborn, and Matplotlib**.
 
 ## Features 📂
 
